@@ -1,0 +1,11 @@
+.dashboard > .has-content{
+	display: none !important;
+}
+
+.content-main .user-similarities-list .breakable{
+	display: none !important;
+}
+
+.social-proof{
+	display: none !important;
+}
